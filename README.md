@@ -9,5 +9,7 @@ Havs function to display account details
 Child Class: Bank
 
 Store detail about the account balance
+
 Store details about the account amount
+
 Allow for depost withdraw and view_balance
