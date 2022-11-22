@@ -1,15 +1,20 @@
 # Simple-banking-system
 Simple banking system Using OOP in pythoon
 
+Step1
+
 Paraent Class: User
 
-Holds the details about the account
-Havs function to display account details 
+1. Holds the details about the account
+
+2. Has function to display account details 
+
+Step2
 
 Child Class: Bank
 
-Store detail about the account balance
+1. Store detail about the account balance
 
-Store details about the account amount
+2. Store details about the account amount
 
-Allow for depost withdraw and view_balance
+3. Allow for depost withdraw and view_balance
